@@ -1,0 +1,40 @@
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\bin\Release\WebserviceStatus.exe
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\bin\Release\WebserviceStatus.pdb
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\bin\Release\WebserviceStatus.xml
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\obj\Release\WebserviceStatus.Resources.resources
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\obj\Release\WebserviceStatus.vbproj.GenerateResource.Cache
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\obj\Release\WebserviceStatus.exe
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\obj\Release\WebserviceStatus.xml
+C:\Users\Roger\AppData\Local\Temporary Projects\WebserviceStatus\obj\Release\WebserviceStatus.pdb
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.exe
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.xml
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.pdb
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.exe
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.pdb
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.xml
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.Form1.resources
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.Resources.resources
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.vbproj.GenerateResource.Cache
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.vbprojResolveAssemblyReference.cache
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.vbproj.CoreCompileInputs.cache
+C:\Users\Roger\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.Resource1.resources
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.exe.config
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.exe.manifest
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.application
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.exe
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.pdb
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\WebserviceStatus.xml
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.Form1.resources
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.Resources.resources
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.Resource1.resources
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.vbproj.GenerateResource.Cache
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.vbproj.CoreCompileInputs.cache
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.exe.manifest
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.application
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.exe
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.xml
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\obj\Release\WebserviceStatus.pdb
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\Resources\red.ico
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\Resources\green.ico
+C:\Users\rpearse\WebserviceStatus\WebserviceStatus\bin\Release\Resources\black.ico
